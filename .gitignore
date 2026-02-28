@@ -1,0 +1,41 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio generated files
+# *.apk  <- APKs are intentionally NOT ignored
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Android Studio cache files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries/
+.idea/libraries/
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder created in Android Studio 2.2 and later
+.externalNativeBuild/
+
+# Google Services (e.g., Firebase)
+google-services.json
+
+# IntelliJ
+*.iml
+.idea/
+
+# Mac
+.DS_Store
