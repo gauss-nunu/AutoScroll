@@ -1,6 +1,19 @@
 # Gradle files
 .gradle/
-build/
+
+# Generated files, including most of the build folder
+/build/
+!/app/build/
+/app/build/generated/
+/app/build/intermediates/
+/app/build/kotlin/
+/app/build/outputs/blame/
+/app/build/outputs/logs/
+!/app/build/outputs/apk/
+/app/build/outputs/apk/release/
+!/app/build/outputs/apk/debug/
+!/app/build/outputs/apk/debug/app-debug.apk
+/app/build/tmp/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -9,7 +22,7 @@ local.properties
 *.log
 
 # Android Studio generated files
-# *.apk  <- APKs are intentionally NOT ignored
+# *.apk  <- This is handled above
 *.ap_
 *.aab
 *.dex
