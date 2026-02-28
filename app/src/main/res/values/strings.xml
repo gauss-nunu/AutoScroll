@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AutoScroll</string>
+    <string name="accessibility_service_description">AutoScroll uses accessibility to perform human-like scrolling gestures.</string>
+    <string name="label_base_delay">Base Delay (ms)</string>
+    <string name="label_jitter_multiplier">Jitter Multiplier</string>
+    <string name="label_swipe_length_variance">Swipe Length Variance</string>
+    <string name="label_swipe_duration">Swipe Duration (ms)</string>
+    <string name="status_idle">Status: Idle</string>
+    <string name="status_running">Status: Scrolling…</string>
+    <string name="status_no_service">Status: Accessibility Service Not Enabled</string>
+    <string name="btn_enable_accessibility">Enable Accessibility Service</string>
+    <string name="btn_enable_overlay">Enable Overlay Permission</string>
+    <string name="btn_start_overlay">Launch Floating Button</string>
+    <string name="notification_channel_name">AutoScroll Service</string>
+    <string name="notification_text">AutoScroll overlay is active</string>
+</resources>

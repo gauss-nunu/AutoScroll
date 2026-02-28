@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-merged_res-34:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-main-36:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-merged_res-34:\\drawable_circle_indicator.xml.flat",
+        "source": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-main-36:\\drawable\\circle_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-merged_res-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-merged_res-34:\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-main-36:\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-merged_res-34:\\drawable_ic_stop.xml.flat",
+        "source": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-main-36:\\drawable\\ic_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-merged_res-34:\\layout_overlay_fab.xml.flat",
+        "source": "C:\\Users\\xiang\\.gradle\\daemon\\8.4\\com.autoscroll.app-main-36:\\layout\\overlay_fab.xml"
+    },
+    {
+        "merged": "com.autoscroll.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.autoscroll.app-main-36:/layout/activity_main.xml"
+    }
+]

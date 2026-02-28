@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_bg">#FF2B2930</color>
+    <color name="fab_start">#FF4CAF50</color>
+    <color name="fab_stop">#FFF44336</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_secondary">#FFFFFFFF</color>
+    <color name="on_surface">#FFE6E1E5</color>
+    <color name="on_surface_variant">#FFCAC4D0</color>
+    <color name="outline">#FF938F99</color>
+    <color name="primary">#FF6750A4</color>
+    <color name="primary_container">#FFEADDFF</color>
+    <color name="secondary">#FF625B71</color>
+    <color name="status_idle">#FFFF9800</color>
+    <color name="status_running">#FF4CAF50</color>
+    <color name="surface">#FF1C1B1F</color>
+    <color name="surface_variant">#FF49454F</color>
+    <string name="accessibility_service_description">AutoScroll uses accessibility to perform human-like scrolling gestures.</string>
+    <string name="app_name">AutoScroll</string>
+    <string name="btn_enable_accessibility">Enable Accessibility Service</string>
+    <string name="btn_enable_overlay">Enable Overlay Permission</string>
+    <string name="btn_start_overlay">Launch Floating Button</string>
+    <string name="label_base_delay">Base Delay (ms)</string>
+    <string name="label_jitter_multiplier">Jitter Multiplier</string>
+    <string name="label_swipe_duration">Swipe Duration (ms)</string>
+    <string name="label_swipe_length_variance">Swipe Length Variance</string>
+    <string name="notification_channel_name">AutoScroll Service</string>
+    <string name="notification_text">AutoScroll overlay is active</string>
+    <string name="status_idle">Status: Idle</string>
+    <string name="status_no_service">Status: Accessibility Service Not Enabled</string>
+    <string name="status_running">Status: Scrolling…</string>
+    <style name="Theme.AutoScroll" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryContainer">@color/primary_container</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <item name="android:statusBarColor">@color/surface</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+    </style>
+</resources>
